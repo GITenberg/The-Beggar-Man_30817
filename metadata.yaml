@@ -1,0 +1,34 @@
+_repo: The-Beggar-Man_30817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ayres, Ruby M. (Ruby Mildred)
+    aliases:
+    - Pocock, Ruby Mildred
+    - Ayres, Ruby Mildred
+    birthdate: 1883
+    deathdate: 1955
+    gutenberg_agent_id: '7383'
+    url: http://www.gutenberg.org/2009/agents/7383
+description: Get swept away by romance in this charming tale from esteemed author
+  Ruby Ayres. Faith is a delicate and sensitive girl who has to work long hours under
+  harsh conditions in a local factory to help her family make ends meet. After a particularly
+  grueling shift, she faints on the sidewalk on the way home -- only to be rescued
+  by an unusual but kind fellow. Will this chance meeting change the course of her
+  life?
+gutenberg_issued: '2009-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Beggar Man
+url: http://www.gutenberg.org/ebooks/30817
